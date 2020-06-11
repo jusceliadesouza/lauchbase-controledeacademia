@@ -15,7 +15,7 @@
 
 <p align=center></p>
 
-## 🚀 Execução
+## 🚀 Instruções de Execução
 
 <p align=center></p>
 
