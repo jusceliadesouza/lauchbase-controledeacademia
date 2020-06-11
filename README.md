@@ -20,21 +20,24 @@
 <p align=center></p>
 
 ```bash
-npm install
-npm start
+$ npm install
+$ npm start
 ```
 
 # 📄 Licença
 
-Esse projeto foi criado sob a licença MIT. Para mais detalhes, leia o arquivo <a href="LICENCE" target="_blank">LICENCE</a>.
+<p align=justify>
+  Esse projeto foi criado sob a licença MIT. Para mais detalhes da licença, leia o arquivo <a href="LICENSE" target="_blank">LICENCE</a>.
+</p>
 
 # ☕ Pausa pro café 
+
 <p align=justify>
   Caso queira fazer algum comentário ou sugestão sobre esse projeto, basta entrar em contato comigo nos meus canais de comunicação.
 </p>
 
 <h3 align=center>
-  <a href=`mailto:jusceliadesousa@gmail.com?subject="Controle%20de Academia%20-%20Comentários%20e%20Sugestões"`>E-mail</a> | <a href="linkedin.com/in/jusceliadesouza">LinkedIn</a> | <a>WhatsApp</a>
+  <a href="mailto:jusceliadesousa@gmail.com" target="_blank">E-mail</a> | <a href="https://linkedin.com/in/jusceliadesouza" target="_blank">LinkedIn</a> | <a href="#">WhatsApp</a>
 </h3>
 
 <p align=right><b>Tenha um dia abençoado!</b></p>
